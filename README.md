@@ -20,4 +20,4 @@
 
 ##### Sample from Game:
 
-![](https://github.com/mronda/CAP3032_Final_Project/blob/master/data/galactic_blaster_gif1.gif)
+![](https://github.com/mronda/CAP3032_Final_Project/blob/master/data/galactic_blaster_gif1.gif)  ![](https://github.com/mronda/CAP3032_Final_Project/blob/master/data/galactic_blaster_gif2.gif)
